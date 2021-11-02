@@ -1,3 +1,4 @@
 ignoredSettings:
   - projectManager.git.baseFolders
   - go.alternateTools
+  - vs-kubernetes

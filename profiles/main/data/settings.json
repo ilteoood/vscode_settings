@@ -12,42 +12,20 @@
     ],
     "webview.experimental.useExternalEndpoint": true,
     "files.enableTrash": false,
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "git.enableSmartCommit": true,
     "settingsSync.ignoredSettings": [
         "-window.zoomLevel"
     ],
     "window.zoomLevel": -1,
-    "git.autofetch": true,
+    "git.autofetch": "all",
     "jest.autoRun": "off",
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnType": true,
-        "editor.rulers": [
-            80
-        ],
-        "editor.selectionHighlight": false,
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
-    },
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
     "svg.preview.mode": "svg",
-    "vsicons.dontShowNewVersionMessage": true,
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "syncSettings.ignoredSettings": [
         "projectManager.git.baseFolders",
-        "go.alternateTools"
-    ],
-    "vs-kubernetes": {
-        "vscode-kubernetes.minikube-path.linux": "/home/ilteoood/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
-        "vscode-kubernetes.helm-path.linux": "/home/ilteoood/.vs-kubernetes/tools/helm/linux-amd64/helm"
-    }
+        "go.alternateTools",
+        "vs-kubernetes"
+    ]
 }
