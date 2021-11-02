@@ -20,9 +20,6 @@
     "git.autofetch": "all",
     "jest.autoRun": "off",
     "svg.preview.mode": "svg",
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
     "syncSettings.ignoredSettings": [
         "projectManager.git.baseFolders",
         "go.alternateTools",
