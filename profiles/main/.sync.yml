@@ -1,2 +1,3 @@
 ignoredSettings:
   - projectManager.git.baseFolders
+  - go.alternateTools
