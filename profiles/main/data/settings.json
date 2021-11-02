@@ -46,12 +46,9 @@
     },
     "svg.preview.mode": "svg",
     "vsicons.dontShowNewVersionMessage": true,
-    "projectManager.git.baseFolders": [
-        "/home/ilteoood/Documents/git/mia",
-        "/home/ilteoood/Documents/git/personale"
-    ],
     "workbench.colorTheme": "Visual Studio Dark",
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "syncSettings.ignoredSettings": ["projectManager.git.baseFolders"]
 }
