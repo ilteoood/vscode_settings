@@ -42,5 +42,12 @@
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "syncSettings.ignoredSettings": ["projectManager.git.baseFolders", "go.alternateTools"]
+    "syncSettings.ignoredSettings": [
+        "projectManager.git.baseFolders",
+        "go.alternateTools"
+    ],
+    "vs-kubernetes": {
+        "vscode-kubernetes.minikube-path.linux": "/home/ilteoood/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
+        "vscode-kubernetes.helm-path.linux": "/home/ilteoood/.vs-kubernetes/tools/helm/linux-amd64/helm"
+    }
 }
