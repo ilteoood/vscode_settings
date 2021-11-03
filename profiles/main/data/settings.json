@@ -37,5 +37,6 @@
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": false
     },
-    "local-history.path": "${workspaceFolder}/.vscode"
+    "local-history.path": "${workspaceFolder}/.vscode",
+    "pasteImage.insertPattern": ""
 }
