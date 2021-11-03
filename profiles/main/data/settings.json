@@ -10,7 +10,6 @@
     "eslint.validate": [
         "javascript"
     ],
-    "webview.experimental.useExternalEndpoint": true,
     "files.enableTrash": false,
     "git.enableSmartCommit": true,
     "settingsSync.ignoredSettings": [
@@ -40,4 +39,5 @@
     "local-history.treeLocation": "localHistory",
     "local-history.path": "${workspaceFolder}/.vscode",
     "pasteImage.insertPattern": "",
+    "redhat.telemetry.enabled": false,
 }
