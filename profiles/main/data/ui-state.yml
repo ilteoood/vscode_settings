@@ -12,7 +12,6 @@ workbench.views.extensions.installed.empty: "0"
 workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
 workbench.view.extension.liveshare.state.hidden: '[{"id":"liveshare.session","isHidden":false},{"id":"liveshare.contacts","isHidden":false},{"id":"liveshare.plannedSessions","isHidden":false},{"id":"liveshare.help","isHidden":false}]'
 workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.welcome","isHidden":false}]'
-mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
 workbench.view.extension.todo-tree-container.state.hidden: '[{"id":"todo-tree-view","isHidden":false}]'
 workbench.view.extension.gitTreeCompare.state.hidden: '[{"id":"gitTreeCompare","isHidden":false}]'
 workbench.view.extension.ponicodeExplorer.state.hidden: '[{"id":"ponicodeTreeView","isHidden":false},{"id":"ponicodeHelpSection","isHidden":false}]'
@@ -57,7 +56,12 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{\"when\":\"openEditorsVisible\"},{},{},{\"when\":\"time\
   lineHasProvider\"},{\"when\":\"npm:showScriptExplorer\"},{\"when\":\"dart-cod\
-  e:anyProjectLoaded\"},{\"when\":\"liveshare:isCollaborating &&
+  e:anyProjectLoaded\"},{\"when\":\"git.commit.selected && git.commit.view.show
+  &&
+  !config.gitHistory.hideCommitViewExplorer\"},{\"when\":\"git.commit.compare.c\
+  ompared && git.commit.compare.view.show &&
+  !config.gitHistory.hideCompareCommitViewExplorer\"},{\"when\":\"liveshare:isC\
+  ollaborating &&
   liveshare:showExplorer\"},{\"when\":\"local-history:treeLocation ==
   'explorer'\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"sea\
   rch-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\
@@ -139,15 +143,11 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/gruntfuggly.todo-t\
   ree-0.0.214/resources/todo-tree-container.svg\",\"scheme\":\"file\"},\"name\":\
   \"TODOs\",\"isBuiltin\":false,\"views\":[{\"when\":\"!todo-tree-is-empty\"}]}\
-  ,{\"id\":\"workbench.view.extension.gitTreeCompare\",\"iconUrl\":{\"$mid\":1,\
-  \"path\":\"%%EXTENSION_DATA_PATH%%/letmaik.git-tree-compare-1.13.2/resources/\
-  logo.svg\",\"scheme\":\"file\"},\"name\":\"Git Tree
-  Compare\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.git.enabled &&
-  gitOpenRepositoryCount !=
-  '0'\"}]},{\"id\":\"workbench.view.extension.ponicodeExplorer\",\"isBuiltin\":\
-  false},{\"id\":\"workbench.view.extension.tabnine-access\",\"iconUrl\":{\"$mid\
-  \":1,\"path\":\"%%EXTENSION_DATA_PATH%%/tabnine.tabnine-vscode-3.4.33/small_l\
-  ogo.png\",\"scheme\":\"file\"},\"name\":\"Tabnine Quick
+  ,{\"id\":\"workbench.view.extension.gitTreeCompare\",\"isBuiltin\":false},{\"\
+  id\":\"workbench.view.extension.ponicodeExplorer\",\"isBuiltin\":false},{\"id\
+  \":\"workbench.view.extension.tabnine-access\",\"iconUrl\":{\"$mid\":1,\"path\
+  \":\"%%EXTENSION_DATA_PATH%%/tabnine.tabnine-vscode-3.4.33/small_logo.png\",\
+  \"scheme\":\"file\"},\"name\":\"Tabnine Quick
   Access\",\"isBuiltin\":false,\"views\":[{\"when\":\"tabnine.tabnine-navigatio\
   n-ready\"}]},{\"id\":\"workbench.view.extension.cspell-explorer\",\"isBuiltin\
   \":false},{\"id\":\"workbench.view.extension.bookmarks\",\"iconUrl\":{\"$mid\
@@ -174,4 +174,4 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
   Console","pinned":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"order":3,"visible":true},{"id":"refactorPreview","name":"Refactor
   Preview","pinned":true,"visible":false}]'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":true,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":true,"order":14},{"id":"workbench.view.extension.checkPointExplorerContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.local-history","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.wallaby","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":true,"order":15},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":true,"order":17},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":true,"order":12},{"id":"workbench.view.extension.gitTreeCompare","pinned":true,"visible":true,"order":13},{"id":"workbench.view.extension.ponicodeExplorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.tabnine-access","pinned":false,"visible":true,"order":16},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.project-manager","pinned":false,"visible":true,"order":9},{"id":"workbench.view.extension.kubernetesView","pinned":true,"visible":false,"order":15},{"id":"workbench.view.sync","pinned":false,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":true,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":true,"order":13},{"id":"workbench.view.extension.checkPointExplorerContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.local-history","pinned":true,"visible":false,"order":16},{"id":"workbench.view.extension.wallaby","pinned":true,"visible":false,"order":18},{"id":"workbench.view.extension.liveshare","pinned":true,"visible":true,"order":14},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.localHistory","pinned":true,"visible":true,"order":16},{"id":"workbench.view.extension.todo-tree-container","pinned":true,"visible":true,"order":12},{"id":"workbench.view.extension.gitTreeCompare","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.ponicodeExplorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.tabnine-access","pinned":false,"visible":true,"order":15},{"id":"workbench.view.extension.cspell-explorer","pinned":true,"visible":false,"order":17},{"id":"workbench.view.extension.bookmarks","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.project-manager","pinned":false,"visible":true,"order":9},{"id":"workbench.view.extension.kubernetesView","pinned":true,"visible":false,"order":15},{"id":"workbench.view.sync","pinned":false,"visible":false}]'

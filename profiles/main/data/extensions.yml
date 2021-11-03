@@ -22,6 +22,8 @@ enabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: dendron.dendron-paste-image
     uuid: b08e77c9-221d-41a6-9668-59bc8fd04128
+  - id: donjayamanne.githistory
+    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: ecmel.vscode-html-css
@@ -50,12 +52,8 @@ enabled:
     uuid: f74994ea-773f-4262-bb69-096eacaebea6
   - id: kamikillerto.vscode-colorize
     uuid: 445ba381-f232-4150-9056-d790bd76d698
-  - id: letmaik.git-tree-compare
-    uuid: 24107fa3-c33a-4f36-b225-21775b32199f
   - id: maptz.camelcasenavigation
     uuid: d36d91a3-b005-46ad-a454-49fe08c794b8
-  - id: mhutchie.git-graph
-    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-azuretools.vscode-docker
