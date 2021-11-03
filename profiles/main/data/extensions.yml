@@ -98,5 +98,7 @@ enabled:
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
   - id: wmaurer.change-case
     uuid: 2aa040bf-c73a-455d-8946-5c6cc83b8019
+  - id: xyz.local-history
+    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2

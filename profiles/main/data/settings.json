@@ -36,5 +36,6 @@
         "editor.suggestSelection": "first",
         "editor.tabCompletion": "onlySnippets",
         "editor.wordBasedSuggestions": false
-    }
+    },
+    "local-history.path": "${workspaceFolder}/.vscode"
 }
