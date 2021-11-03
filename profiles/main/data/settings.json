@@ -39,5 +39,5 @@
     },
     "local-history.treeLocation": "localHistory",
     "local-history.path": "${workspaceFolder}/.vscode",
-    "pasteImage.insertPattern": ""
+    "pasteImage.insertPattern": "",
 }
