@@ -40,4 +40,18 @@
     "local-history.path": "${workspaceFolder}/.vscode",
     "pasteImage.insertPattern": "",
     "redhat.telemetry.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.openFoldersInNewWindow": "on",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }

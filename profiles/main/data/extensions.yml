@@ -78,6 +78,10 @@ enabled:
     uuid: f38fdd1c-7ee2-47b1-90b9-77ecc90d4bff
   - id: ms-vsliveshare.vsliveshare-pack
     uuid: 87caf16b-d487-45c0-877d-573fe319b015
+  - id: nicoespeon.abracadabra
+    uuid: 0bfc03aa-70fb-4740-82a7-ca1043260d88
+  - id: nicoespeon.hocus-pocus
+    uuid: 18266b50-aeb3-47b6-adfc-f63b7f29335b
   - id: Orta.vscode-jest
     uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
   - id: pflannery.vscode-versionlens
