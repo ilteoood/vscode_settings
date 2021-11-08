@@ -84,6 +84,8 @@ enabled:
     uuid: 18266b50-aeb3-47b6-adfc-f63b7f29335b
   - id: Orta.vscode-jest
     uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
+  - id: p42ai.refactor
+    uuid: 520394e7-762a-4805-819d-8686f0f3519e
   - id: pflannery.vscode-versionlens
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: pranaygp.vscode-css-peek

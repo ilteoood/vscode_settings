@@ -53,5 +53,5 @@
     "window.openFoldersInNewWindow": "on",
     "[javascriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
 }
