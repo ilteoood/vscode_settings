@@ -54,4 +54,15 @@
     "[javascriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "files.exclude": {
+        "**/.idea": true
+    },
+    "search.exclude": {
+        "**/.idea": true,
+        "**/.vscode": true
+    },
 }
