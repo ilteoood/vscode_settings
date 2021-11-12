@@ -59,7 +59,8 @@
     },
     "typescript.updateImportsOnFileMove.enabled": "always",
     "files.exclude": {
-        "**/.idea": true
+        "**/.idea": true,
+        "**/.vscode": true
     },
     "search.exclude": {
         "**/.idea": true,
