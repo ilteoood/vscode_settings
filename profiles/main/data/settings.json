@@ -66,4 +66,7 @@
         "**/.idea": true,
         "**/.vscode": true
     },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }
