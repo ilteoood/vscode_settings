@@ -12,9 +12,6 @@
     ],
     "files.enableTrash": false,
     "git.enableSmartCommit": true,
-    "settingsSync.ignoredSettings": [
-        "-window.zoomLevel"
-    ],
     "window.zoomLevel": -1,
     "git.autofetch": "all",
     "jest.autoRun": "off",
@@ -69,4 +66,7 @@
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "settingsSync.ignoredSettings": [
+        "projectManager.git.baseFolders"
+    ]
 }
