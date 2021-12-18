@@ -69,4 +69,10 @@
     "settingsSync.ignoredSettings": [
         "projectManager.git.baseFolders"
     ]
+
+,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "go.toolsManagement.autoUpdate": true,
 }
