@@ -80,6 +80,8 @@ enabled:
     uuid: 0bfc03aa-70fb-4740-82a7-ca1043260d88
   - id: nicoespeon.hocus-pocus
     uuid: 18266b50-aeb3-47b6-adfc-f63b7f29335b
+  - id: octref.vetur
+    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
   - id: Orta.vscode-jest
     uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
   - id: p42ai.refactor
@@ -94,6 +96,8 @@ enabled:
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
   - id: smulyono.reveal
     uuid: 67cf5ad0-40ba-4d61-a962-857009c2ac4d
+  - id: svelte.svelte-vscode
+    uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: TabNine.tabnine-vscode
     uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: timonwong.shellcheck
