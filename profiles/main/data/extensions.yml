@@ -38,6 +38,8 @@ enabled:
     uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: gitkraken.gitkraken-authentication
+    uuid: 134e6b76-c855-4f2c-97fd-f7c38152f79a
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: Gruntfuggly.todo-tree
@@ -58,6 +60,16 @@ enabled:
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-keymap
+    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
   - id: ms-vscode-remote.remote-containers
     uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: ms-vscode-remote.remote-ssh
