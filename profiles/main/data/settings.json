@@ -1,78 +1,75 @@
 {
-    "files.autoSave": "onFocusChange",
+  "files.autoSave": "onFocusChange",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "files.enableTrash": false,
+  "git.enableSmartCommit": true,
+  "window.zoomLevel": -1,
+  "git.autofetch": "all",
+  "jest.autoRun": "off",
+  "svg.preview.mode": "svg",
+  "syncSettings.ignoredSettings": [
+    "projectManager.git.baseFolders",
+    "go.alternateTools",
+    "vs-kubernetes"
+  ],
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "tabnine.experimentalAutoImports": true,
-    "workbench.iconTheme": "vscode-icons",
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    },
-    "eslint.validate": [
-        "javascript"
-    ],
-    "files.enableTrash": false,
-    "git.enableSmartCommit": true,
-    "window.zoomLevel": -1,
-    "git.autofetch": "all",
-    "jest.autoRun": "off",
-    "svg.preview.mode": "svg",
-    "syncSettings.ignoredSettings": [
-        "projectManager.git.baseFolders",
-        "go.alternateTools",
-        "vs-kubernetes"
-    ],
-    "[dart]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnType": true,
-        "editor.rulers": [
-            80
-        ],
-        "editor.selectionHighlight": false,
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
-    },
-    "local-history.treeLocation": "localHistory",
-    "local-history.path": "${workspaceFolder}/.vscode",
-    "pasteImage.insertPattern": "",
-    "redhat.telemetry.enabled": false,
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "window.openFoldersInNewWindow": "on",
-    "[javascriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "files.exclude": {
-        "**/.idea": true,
-        "**/.vscode": true
-    },
-    "search.exclude": {
-        "**/.idea": true,
-        "**/.vscode": true
-    },
-    "[json]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "settingsSync.ignoredSettings": [
-        "projectManager.git.baseFolders"
-    ]
-
-,
-    "[jsonc]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "go.toolsManagement.autoUpdate": true,
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "local-history.treeLocation": "localHistory",
+  "local-history.path": "${workspaceFolder}/.vscode",
+  "pasteImage.insertPattern": "",
+  "redhat.telemetry.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.openFoldersInNewWindow": "on",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "files.exclude": {
+    "**/.idea": true,
+    "**/.vscode": true
+  },
+  "search.exclude": {
+    "**/.idea": true,
+    "**/.vscode": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "settingsSync.ignoredSettings": ["projectManager.git.baseFolders"],
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "go.toolsManagement.autoUpdate": true,
+  "editor.bracketPairColorization.enabled": true,
+  "typescript.suggest.paths": true,
+  "javascript.suggest.paths": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true
 }
