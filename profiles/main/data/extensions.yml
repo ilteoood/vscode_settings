@@ -38,8 +38,6 @@ enabled:
     uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
-  - id: gitkraken.gitkraken-authentication
-    uuid: 134e6b76-c855-4f2c-97fd-f7c38152f79a
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: Gruntfuggly.todo-tree
@@ -56,6 +54,8 @@ enabled:
     uuid: 24107fa3-c33a-4f36-b225-21775b32199f
   - id: maptz.camelcasenavigation
     uuid: d36d91a3-b005-46ad-a454-49fe08c794b8
+  - id: matklad.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-azuretools.vscode-docker
