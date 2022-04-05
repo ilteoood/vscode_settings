@@ -114,7 +114,5 @@ enabled:
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
-  - id: xyz.local-history
-    uuid: 25adc849-5c3a-4dca-95b3-55a6461077ee
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
