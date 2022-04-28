@@ -14,11 +14,7 @@
   "git.autofetch": "all",
   "jest.autoRun": "off",
   "svg.preview.mode": "svg",
-  "syncSettings.ignoredSettings": [
-    "projectManager.git.baseFolders",
-    "go.alternateTools",
-    "vs-kubernetes"
-  ],
+  "syncSettings.ignoredSettings": [],
   "[dart]": {
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
@@ -42,7 +38,9 @@
     "**/.idea": true,
     "**/.vscode": true
   },
-  "settingsSync.ignoredSettings": ["projectManager.git.baseFolders"],
+  "settingsSync.ignoredSettings": [
+    "-window.zoomLevel"
+  ],
   "go.toolsManagement.autoUpdate": true,
   "editor.bracketPairColorization.enabled": true,
   "typescript.suggest.paths": true,
@@ -61,4 +59,10 @@
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
+  "go.alternateTools": {
+    "go": "/snap/go/current/bin/go"
+  },
+  "projectManager.git.baseFolders": [
+    "/home/ilteoood/Documents/git"
+  ],
 }
