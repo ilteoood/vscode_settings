@@ -65,4 +65,11 @@
   "projectManager.git.baseFolders": [
     "/home/ilteoood/Documents/git"
   ],
+  "vsicons.dontShowNewVersionMessage": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
 }
