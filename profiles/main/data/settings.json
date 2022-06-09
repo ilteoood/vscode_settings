@@ -73,4 +73,7 @@
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
   "svelte.enable-ts-plugin": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
 }
