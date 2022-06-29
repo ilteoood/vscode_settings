@@ -46,6 +46,8 @@ enabled:
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
   - id: hjdarnel.vscode-change-case
     uuid: 7ef02130-ba2d-47a6-a96e-4268d53c5455
+  - id: James-Yu.latex-workshop
+    uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jock.svg
     uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
   - id: jomeinaster.bracket-peek
@@ -76,6 +78,8 @@ enabled:
     uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
   - id: ms-vscode.live-server
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
+  - id: ms-vscode.makefile-tools
+    uuid: e09cf600-90a1-414e-92a0-031f1a5391c6
   - id: ms-vsliveshare.vsliveshare
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: ms-vsliveshare.vsliveshare-audio

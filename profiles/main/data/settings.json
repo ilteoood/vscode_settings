@@ -10,7 +10,6 @@
   "eslint.validate": ["javascript"],
   "files.enableTrash": false,
   "git.enableSmartCommit": true,
-  "window.zoomLevel": -1,
   "git.autofetch": "all",
   "jest.autoRun": "off",
   "svg.preview.mode": "svg",
@@ -76,4 +75,5 @@
   "[typescript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
+  "window.zoomLevel": -1,
 }
