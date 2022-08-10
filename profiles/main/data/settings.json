@@ -47,7 +47,7 @@
   "javascript.suggest.autoImports": true,
   "typescript.suggest.autoImports": true,
   "[css]": {
-    "editor.defaultFormatter": "vscode.css-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
