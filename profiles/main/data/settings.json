@@ -59,7 +59,8 @@
     "go": "/snap/go/current/bin/go"
   },
   "projectManager.git.baseFolders": [
-    "/home/ilteoood/Documents/git"
+    "/home/ilteoood/Documents/git",
+    "/Users/ilteoood/Documents/git"
   ],
   "vsicons.dontShowNewVersionMessage": true,
   "[jsonc]": {
