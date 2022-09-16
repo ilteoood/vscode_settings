@@ -80,5 +80,8 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "p42.telemetry.telemetryLevel": "off"
+  "p42.telemetry.telemetryLevel": "off",
+  "files.associations": {
+    "*.mdx": "markdown"
+  },
 }
