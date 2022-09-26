@@ -73,7 +73,6 @@
   "[typescript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
   },
-  "window.zoomLevel": -1,
   "[css]": {
     "editor.defaultFormatter": "vscode.css-language-features"
   },
@@ -84,4 +83,6 @@
   "files.associations": {
     "*.mdx": "markdown"
   },
+  "svelte.plugin.svelte.note-new-transformation": false,
+  "window.zoomLevel": -1,
 }
