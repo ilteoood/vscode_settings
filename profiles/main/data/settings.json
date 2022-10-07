@@ -7,7 +7,9 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
-  "eslint.validate": ["javascript"],
+  "eslint.validate": [
+    "javascript"
+  ],
   "files.enableTrash": false,
   "git.enableSmartCommit": true,
   "git.autofetch": "all",
@@ -15,9 +17,10 @@
   "svg.preview.mode": "svg",
   "syncSettings.ignoredSettings": [],
   "[dart]": {
-    "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.rulers": [80],
+    "editor.rulers": [
+      80
+    ],
     "editor.selectionHighlight": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
