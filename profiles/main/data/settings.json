@@ -17,6 +17,7 @@
   "svg.preview.mode": "svg",
   "syncSettings.ignoredSettings": [],
   "[dart]": {
+    "editor.formatOnSave": true,
     "editor.formatOnType": true,
     "editor.rulers": [
       80
