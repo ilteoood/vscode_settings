@@ -116,6 +116,8 @@ enabled:
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
   - id: smulyono.reveal
     uuid: 67cf5ad0-40ba-4d61-a962-857009c2ac4d
+  - id: stylelint.vscode-stylelint
+    uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: svelte.svelte-vscode
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: TabNine.tabnine-vscode
