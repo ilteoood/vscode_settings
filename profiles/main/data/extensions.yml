@@ -1,5 +1,7 @@
 disabled: []
 enabled:
+  - id: 42Crunch.vscode-openapi
+    uuid: 75dba0f9-d5c5-4902-99c4-cd3d60ec7147
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: alefragnani.Bookmarks
