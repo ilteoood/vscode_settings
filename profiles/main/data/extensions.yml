@@ -20,6 +20,8 @@ enabled:
     uuid: 7ed7bccd-f358-4c6f-88c0-1296185abaa1
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
+  - id: cweijan.vscode-database-client2
+    uuid: 6ba92c55-a4a0-43f8-8aeb-cc3a03558814
   - id: Dart-Code.dart-code
     uuid: f57f68ea-9ee8-42b5-9a97-041d3e4278c4
   - id: Dart-Code.flutter
@@ -28,6 +30,8 @@ enabled:
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: dendron.dendron-paste-image
     uuid: b08e77c9-221d-41a6-9668-59bc8fd04128
+  - id: dineug.vuerd-vscode
+    uuid: 8dbb7b71-9fc1-4b51-a9dd-460bf407d574
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: ecmel.vscode-html-css
@@ -66,6 +70,8 @@ enabled:
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-python.isort
+    uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
   - id: ms-python.python
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
@@ -104,6 +110,8 @@ enabled:
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
+  - id: rangav.vscode-thunder-client
+    uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
   - id: redhat.fabric8-analytics
     uuid: efcb43ca-77e6-43e4-8ddc-ada617cb34bd
   - id: redhat.java
