@@ -8,6 +8,8 @@ enabled:
     uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
   - id: alefragnani.project-manager
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
+  - id: Angular.ng-template
+    uuid: a92d457e-6f3f-4167-8087-1a54e1b6e00e
   - id: BazelBuild.vscode-bazel
     uuid: e21a6113-833a-4583-b519-869fd1c1c384
   - id: bcanzanella.openmatchingfiles
@@ -90,6 +92,8 @@ enabled:
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: ms-vscode.makefile-tools
     uuid: e09cf600-90a1-414e-92a0-031f1a5391c6
+  - id: ms-vscode.remote-explorer
+    uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
   - id: ms-vsliveshare.vsliveshare
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: ms-vsliveshare.vsliveshare-audio
