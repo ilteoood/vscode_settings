@@ -166,3 +166,5 @@ enabled:
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: ZixuanChen.vitest-explorer
     uuid: bc1d9975-fcc6-4594-a6ec-252a3fba1eae
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
