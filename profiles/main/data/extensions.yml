@@ -62,6 +62,8 @@ enabled:
     uuid: 4ae6dc82-7981-4f10-bd81-2d72aec37f39
   - id: jomeinaster.bracket-peek
     uuid: f74994ea-773f-4262-bb69-096eacaebea6
+  - id: josee9988.minifyall
+    uuid: 0be0c393-8fd2-4ff8-9c13-e2789b45fc59
   - id: kamikillerto.vscode-colorize
     uuid: 445ba381-f232-4150-9056-d790bd76d698
   - id: letmaik.git-tree-compare
