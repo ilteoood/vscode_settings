@@ -8,6 +8,8 @@ enabled:
     uuid: 1b747f06-3789-4ebd-ac99-f1fe430c3347
   - id: Angular.ng-template
     uuid: a92d457e-6f3f-4167-8087-1a54e1b6e00e
+  - id: anweber.reveal-button
+    uuid: 5f359b65-afe9-488e-a632-c4ca44c8e8ff
   - id: BazelBuild.vscode-bazel
     uuid: e21a6113-833a-4583-b519-869fd1c1c384
   - id: bcanzanella.openmatchingfiles
@@ -126,8 +128,6 @@ enabled:
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
-  - id: smulyono.reveal
-    uuid: 67cf5ad0-40ba-4d61-a962-857009c2ac4d
   - id: stylelint.vscode-stylelint
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: svelte.svelte-vscode

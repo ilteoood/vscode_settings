@@ -91,4 +91,7 @@
   },
   "svelte.plugin.svelte.note-new-transformation": false,
   "window.zoomLevel": -1,
+  "reveal-button.editor_active": true,
+  "reveal-button.reveal_in_os_editor_active": true,
+  "reveal-button.reveal_in_os_explorer_active": true,
 }
