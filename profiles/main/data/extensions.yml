@@ -2,8 +2,6 @@ disabled: []
 enabled:
   - id: 42Crunch.vscode-openapi
     uuid: 75dba0f9-d5c5-4902-99c4-cd3d60ec7147
-  - id: adpyke.codesnap
-    uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: alefragnani.Bookmarks
     uuid: b689fcc8-d494-4dbf-a228-2c694a578afc
   - id: alefragnani.project-manager
@@ -56,6 +54,8 @@ enabled:
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
   - id: hjdarnel.vscode-change-case
     uuid: 7ef02130-ba2d-47a6-a96e-4268d53c5455
+  - id: huibizhang.codesnap-plus
+    uuid: c77e89f2-65ea-498e-be1f-10d71d86c1f8
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jock.svg
@@ -162,6 +162,8 @@ enabled:
     uuid: 78d16c76-388b-44e4-8470-6790d6c3d2d1
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
+  - id: YuTengjing.vscode-colorize-plus
+    uuid: beb993a6-6574-4cb8-9fa7-365fc6bb7fd7
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: ZixuanChen.vitest-explorer
