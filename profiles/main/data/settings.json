@@ -5,24 +5,17 @@
   "tabnine.experimentalAutoImports": true,
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "Default Dark+",
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "eslint.validate": [
-    "javascript"
-  ],
+  "editor.codeActionsOnSave": ["source.organizeImports", "source.sortImports", "source.fixAll"],
   "files.enableTrash": false,
   "git.enableSmartCommit": true,
   "git.autofetch": "all",
   "jest.autoRun": "off",
   "svg.preview.mode": "svg",
-  "syncSettings.ignoredSettings": [],
+  "syncSettings.ignoredSettings": ["-window.zoomLevel"],
   "[dart]": {
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.rulers": [
-      80
-    ],
+    "editor.rulers": [80],
     "editor.selectionHighlight": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
@@ -42,9 +35,7 @@
     "**/.idea": true,
     "**/.vscode": true
   },
-  "settingsSync.ignoredSettings": [
-    "-window.zoomLevel"
-  ],
+  "settingsSync.ignoredSettings": ["-window.zoomLevel"],
   "go.toolsManagement.autoUpdate": true,
   "editor.bracketPairColorization.enabled": true,
   "typescript.suggest.paths": true,
@@ -94,4 +85,11 @@
   "reveal-button.reveal_in_os_editor_active": true,
   "reveal-button.reveal_in_os_explorer_active": true,
   "window.zoomLevel": -1,
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  }
 }

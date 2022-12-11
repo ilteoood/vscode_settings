@@ -16,8 +16,6 @@ enabled:
     uuid: 3a6cf3c7-da91-4e13-b249-1722f059e580
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
-  - id: christian-kohler.path-intellisense
-    uuid: a41c1549-4053-44d4-bf30-60fc809b4a86
   - id: chrmarti.regex
     uuid: 7ed7bccd-f358-4c6f-88c0-1296185abaa1
   - id: codezombiech.gitignore
@@ -42,8 +40,6 @@ enabled:
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: formulahendry.auto-close-tag
-    uuid: d3836729-9cc1-42c1-b2af-d50071f57d29
   - id: formulahendry.auto-complete-tag
     uuid: 366a9f01-2d1b-48b9-b7df-014ff8dea46b
   - id: formulahendry.auto-rename-tag
