@@ -40,10 +40,6 @@ enabled:
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
-  - id: formulahendry.auto-complete-tag
-    uuid: 366a9f01-2d1b-48b9-b7df-014ff8dea46b
-  - id: formulahendry.auto-rename-tag
-    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: golang.go

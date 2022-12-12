@@ -90,5 +90,6 @@
   "files.trimTrailingWhitespace": true,
   "[markdown]": {
     "files.trimTrailingWhitespace": false
-  }
+  },
+  "editor.linkedEditing": true
 }
