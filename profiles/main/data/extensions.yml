@@ -52,6 +52,8 @@ enabled:
     uuid: 7ef02130-ba2d-47a6-a96e-4268d53c5455
   - id: huibizhang.codesnap-plus
     uuid: c77e89f2-65ea-498e-be1f-10d71d86c1f8
+  - id: jakob101.RelativePath
+    uuid: e8b469bd-915d-4070-bfc2-05c9b546f8ee
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jock.svg
@@ -152,6 +154,8 @@ enabled:
     uuid: 78d16c76-388b-44e4-8470-6790d6c3d2d1
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
+  - id: yatki.vscode-surround
+    uuid: b476195a-5d3b-4a10-af0b-3d94f9c9f924
   - id: YuTengjing.vscode-colorize-plus
     uuid: beb993a6-6574-4cb8-9fa7-365fc6bb7fd7
   - id: yzhang.markdown-all-in-one

@@ -90,5 +90,8 @@
   "[markdown]": {
     "files.trimTrailingWhitespace": false
   },
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  }
 }
