@@ -5,16 +5,23 @@
   "tabnine.experimentalAutoImports": true,
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "Default Dark+",
-  "editor.codeActionsOnSave": ["source.organizeImports", "source.sortImports", "source.fixAll"],
+  "editor.codeActionsOnSave": [
+    "editor.formatOnSave",
+    "source.organizeImports",
+    "source.sortImports",
+    "source.fixAll"
+  ],
+  "editor.formatOnPaste": true,
   "files.enableTrash": false,
   "git.enableSmartCommit": true,
   "git.autofetch": "all",
   "jest.autoRun": "off",
   "svg.preview.mode": "svg",
   "[dart]": {
-    "editor.formatOnSave": true,
     "editor.formatOnType": true,
-    "editor.rulers": [80],
+    "editor.rulers": [
+      80
+    ],
     "editor.selectionHighlight": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
@@ -34,7 +41,9 @@
     "**/.idea": true,
     "**/.vscode": true
   },
-  "settingsSync.ignoredSettings": ["-window.zoomLevel"],
+  "settingsSync.ignoredSettings": [
+    "-window.zoomLevel"
+  ],
   "go.toolsManagement.autoUpdate": true,
   "editor.bracketPairColorization.enabled": true,
   "typescript.suggest.paths": true,
