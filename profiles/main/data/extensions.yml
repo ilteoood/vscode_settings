@@ -10,6 +10,8 @@ enabled:
     uuid: a92d457e-6f3f-4167-8087-1a54e1b6e00e
   - id: anweber.reveal-button
     uuid: 5f359b65-afe9-488e-a632-c4ca44c8e8ff
+  - id: astro-build.astro-vscode
+    uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
   - id: BazelBuild.vscode-bazel
     uuid: e21a6113-833a-4583-b519-869fd1c1c384
   - id: bcanzanella.openmatchingfiles
@@ -94,8 +96,6 @@ enabled:
     uuid: 11858313-52cc-4e57-b3e4-d7b65281e34b
   - id: ms-vsliveshare.vsliveshare
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
-  - id: ms-vsliveshare.vsliveshare-audio
-    uuid: f38fdd1c-7ee2-47b1-90b9-77ecc90d4bff
   - id: ms-vsliveshare.vsliveshare-pack
     uuid: 87caf16b-d487-45c0-877d-573fe319b015
   - id: nicoespeon.abracadabra
