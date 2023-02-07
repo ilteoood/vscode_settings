@@ -91,7 +91,6 @@
   "reveal-button.editor_active": true,
   "reveal-button.reveal_in_os_editor_active": true,
   "reveal-button.reveal_in_os_explorer_active": true,
-  "window.zoomLevel": -1,
   "html.autoClosingTags": true,
   "javascript.autoClosingTags": true,
   "typescript.autoClosingTags": true,
@@ -102,5 +101,6 @@
   "editor.linkedEditing": true,
   "[scss]": {
     "editor.defaultFormatter": "vscode.css-language-features"
-  }
+  },
+  "window.zoomLevel": -1
 }
