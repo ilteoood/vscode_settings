@@ -104,6 +104,8 @@ enabled:
     uuid: cf5142f0-3701-4992-980c-9895a750addf
   - id: ms-vscode.remote-server
     uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
+  - id: ms-vscode.vscode-js-profile-flame
+    uuid: 76169c6c-5d43-4560-93d8-95e15125880d
   - id: ms-vsliveshare.vsliveshare
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: ms-vsliveshare.vsliveshare-pack
@@ -118,6 +120,8 @@ enabled:
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: pranaygp.vscode-css-peek
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
+  - id: Prisma.prisma
+    uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
   - id: rangav.vscode-thunder-client
     uuid: 2fd56207-78ef-49d4-95d2-9b801eee4dbf
   - id: redhat.fabric8-analytics

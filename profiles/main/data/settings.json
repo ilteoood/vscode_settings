@@ -102,5 +102,8 @@
   "[scss]": {
     "editor.defaultFormatter": "vscode.css-language-features"
   },
-  "window.zoomLevel": -1
+  "window.zoomLevel": -1,
+  "[python]": {
+    "editor.formatOnType": true
+  }
 }
