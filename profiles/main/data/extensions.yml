@@ -1,6 +1,4 @@
-disabled:
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
+disabled: []
 enabled:
   - id: 42Crunch.vscode-openapi
     uuid: 75dba0f9-d5c5-4902-99c4-cd3d60ec7147
