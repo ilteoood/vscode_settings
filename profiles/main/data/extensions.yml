@@ -1,4 +1,6 @@
-disabled: []
+disabled:
+  - id: TabNine.tabnine-vscode
+    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
 enabled:
   - id: 42Crunch.vscode-openapi
     uuid: 75dba0f9-d5c5-4902-99c4-cd3d60ec7147
@@ -20,6 +22,8 @@ enabled:
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: chrmarti.regex
     uuid: 7ed7bccd-f358-4c6f-88c0-1296185abaa1
+  - id: Codeium.codeium
+    uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
   - id: cweijan.vscode-database-client2
@@ -140,8 +144,6 @@ enabled:
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: svelte.svelte-vscode
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
-  - id: TabNine.tabnine-vscode
-    uuid: 75da638c-c45a-44ea-aa3b-8570a3559810
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
   - id: usernamehw.errorlens
