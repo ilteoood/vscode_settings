@@ -144,6 +144,8 @@ enabled:
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
+  - id: unifiedjs.vscode-mdx
+    uuid: af8cfc85-cb72-45d0-bae2-9a98cd0c69f3
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: VisualStudioExptTeam.intellicode-api-usage-examples

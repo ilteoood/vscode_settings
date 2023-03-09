@@ -102,5 +102,11 @@
     "editor.defaultFormatter": "vscode.css-language-features"
   },
   "window.zoomLevel": -1,
-  "codeium.enableSearch": true
+  "codeium.enableSearch": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  }
 }
