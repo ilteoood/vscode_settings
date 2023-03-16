@@ -112,6 +112,7 @@
   "codeium.enableConfig": {
     "*": true,
     "dockercompose": true,
-    "plaintext": true
+    "plaintext": true,
+    "markdown": true
   }
 }
