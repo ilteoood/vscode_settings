@@ -44,6 +44,8 @@ enabled:
     uuid: f60a60a6-95ba-42d4-b41c-3d24c1b89588
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: Everspace.rightclick-git
+    uuid: 8b5e7d83-3b28-4db4-b82f-6ed0b3f4ed91
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: GitHub.remotehub
