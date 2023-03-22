@@ -116,6 +116,8 @@ enabled:
     uuid: 87caf16b-d487-45c0-877d-573fe319b015
   - id: nicoespeon.abracadabra
     uuid: 0bfc03aa-70fb-4740-82a7-ca1043260d88
+  - id: nrwl.angular-console
+    uuid: d10af6bf-270f-4cf0-b94b-1bea4bda1e2e
   - id: octref.vetur
     uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
   - id: Orta.vscode-jest
