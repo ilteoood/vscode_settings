@@ -50,6 +50,8 @@ enabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: GitHub.remotehub
     uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
+  - id: github.vscode-github-actions
+    uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: Gruntfuggly.todo-tree
