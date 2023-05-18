@@ -100,7 +100,6 @@
   "[scss]": {
     "editor.defaultFormatter": "vscode.css-language-features"
   },
-  "window.zoomLevel": -1,
   "codeium.enableSearch": true,
   "[python]": {
     "editor.formatOnType": true
@@ -113,5 +112,6 @@
     "dockercompose": true,
     "plaintext": true,
     "markdown": true
-  }
+  },
+  "window.zoomLevel": -1
 }

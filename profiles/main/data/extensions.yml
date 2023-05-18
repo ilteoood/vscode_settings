@@ -124,6 +124,8 @@ enabled:
     uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
   - id: Orta.vscode-jest
     uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
+  - id: p42ai.refactor
+    uuid: 520394e7-762a-4805-819d-8686f0f3519e
   - id: pflannery.vscode-versionlens
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: pranaygp.vscode-css-peek
@@ -178,6 +180,8 @@ enabled:
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
   - id: yatki.vscode-surround
     uuid: b476195a-5d3b-4a10-af0b-3d94f9c9f924
+  - id: YuTengjing.open-in-external-app
+    uuid: 42a19d78-8550-49db-958b-561a7bfdee7d
   - id: YuTengjing.vscode-colorize-plus
     uuid: beb993a6-6574-4cb8-9fa7-365fc6bb7fd7
   - id: yzhang.markdown-all-in-one
