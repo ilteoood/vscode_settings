@@ -114,8 +114,6 @@ enabled:
     uuid: 76169c6c-5d43-4560-93d8-95e15125880d
   - id: ms-vsliveshare.vsliveshare
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
-  - id: ms-vsliveshare.vsliveshare-pack
-    uuid: 87caf16b-d487-45c0-877d-573fe319b015
   - id: nicoespeon.abracadabra
     uuid: 0bfc03aa-70fb-4740-82a7-ca1043260d88
   - id: nrwl.angular-console
