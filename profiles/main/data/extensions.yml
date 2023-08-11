@@ -150,6 +150,8 @@ enabled:
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
+  - id: ultram4rine.vscode-choosealicense
+    uuid: 3f3c77bc-5721-4a52-b693-e4049ae2256d
   - id: unifiedjs.vscode-mdx
     uuid: af8cfc85-cb72-45d0-bae2-9a98cd0c69f3
   - id: usernamehw.errorlens

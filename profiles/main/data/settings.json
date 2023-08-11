@@ -113,5 +113,8 @@
     "plaintext": true,
     "markdown": true
   },
-  "window.zoomLevel": -1
+  "window.zoomLevel": -1,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "license.author": "Matteo Pietro Dazzi"
 }
