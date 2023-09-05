@@ -24,6 +24,8 @@ enabled:
     uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
+  - id: Codium.codium
+    uuid: 9236e634-e663-41bc-b320-03ab778e7110
   - id: cweijan.vscode-database-client2
     uuid: 6ba92c55-a4a0-43f8-8aeb-cc3a03558814
   - id: Dart-Code.dart-code
