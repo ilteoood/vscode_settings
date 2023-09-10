@@ -150,6 +150,8 @@ enabled:
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: svelte.svelte-vscode
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
+  - id: tamasfe.even-better-toml
+    uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
   - id: ultram4rine.vscode-choosealicense
