@@ -34,6 +34,8 @@ enabled:
     uuid: f6c3ec04-6057-4d9c-b997-69cba07a6158
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: deinsoftware.vitest-snippets
+    uuid: 9ac653a3-ecb0-4f22-a6f9-837a5a45e407
   - id: dendron.dendron-paste-image
     uuid: b08e77c9-221d-41a6-9668-59bc8fd04128
   - id: dineug.vuerd-vscode
@@ -60,8 +62,6 @@ enabled:
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
   - id: hediet.vscode-drawio
     uuid: ea6a6046-2132-421f-a984-664909fcf0b8
-  - id: hjdarnel.vscode-change-case
-    uuid: 7ef02130-ba2d-47a6-a96e-4268d53c5455
   - id: huibizhang.codesnap-plus
     uuid: c77e89f2-65ea-498e-be1f-10d71d86c1f8
   - id: jakob101.RelativePath
@@ -76,6 +76,8 @@ enabled:
     uuid: 0be0c393-8fd2-4ff8-9c13-e2789b45fc59
   - id: maptz.camelcasenavigation
     uuid: d36d91a3-b005-46ad-a454-49fe08c794b8
+  - id: mechatroner.rainbow-csv
+    uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: ms-azuretools.vscode-docker
@@ -126,6 +128,8 @@ enabled:
     uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
   - id: p42ai.refactor
     uuid: 520394e7-762a-4805-819d-8686f0f3519e
+  - id: peterj.proto
+    uuid: 30bcbe00-bac0-497a-838a-eda8e45d1864
   - id: pflannery.vscode-versionlens
     uuid: 07fc4a0a-11fc-4121-ba9a-f0d534c729d8
   - id: Postman.postman-for-vscode
