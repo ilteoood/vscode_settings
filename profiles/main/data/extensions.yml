@@ -10,6 +10,8 @@ enabled:
     uuid: a92d457e-6f3f-4167-8087-1a54e1b6e00e
   - id: anweber.reveal-button
     uuid: 5f359b65-afe9-488e-a632-c4ca44c8e8ff
+  - id: ArthurLobo.easy-codesnap
+    uuid: 74ee6421-4ae5-4bdc-b642-afa6fd1a2522
   - id: astro-build.astro-vscode
     uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
   - id: BazelBuild.vscode-bazel
@@ -62,8 +64,6 @@ enabled:
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
   - id: hediet.vscode-drawio
     uuid: ea6a6046-2132-421f-a984-664909fcf0b8
-  - id: huibizhang.codesnap-plus
-    uuid: c77e89f2-65ea-498e-be1f-10d71d86c1f8
   - id: jakob101.RelativePath
     uuid: e8b469bd-915d-4070-bfc2-05c9b546f8ee
   - id: James-Yu.latex-workshop
