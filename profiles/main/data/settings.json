@@ -120,8 +120,6 @@
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
-  "nxConsole.showNodeVersionOnStartup": false,
-  "diffEditor.ignoreTrimWhitespace": false,
   "easy-codesnap.backgroundColor": "#abb8c3",
   "easy-codesnap.boxShadow": "rgba(0, 0, 0, 0.55) 0px 20px 68px",
   "easy-codesnap.containerPadding": "0",
