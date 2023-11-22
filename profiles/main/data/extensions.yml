@@ -18,6 +18,8 @@ enabled:
     uuid: e21a6113-833a-4583-b519-869fd1c1c384
   - id: bcanzanella.openmatchingfiles
     uuid: 3a6cf3c7-da91-4e13-b249-1722f059e580
+  - id: biomejs.biome
+    uuid: 2c992d35-3965-4369-856e-fdfbb0af2ce2
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: chrmarti.regex
@@ -36,8 +38,6 @@ enabled:
     uuid: f6c3ec04-6057-4d9c-b997-69cba07a6158
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
-  - id: deinsoftware.vitest-snippets
-    uuid: 9ac653a3-ecb0-4f22-a6f9-837a5a45e407
   - id: dendron.dendron-paste-image
     uuid: b08e77c9-221d-41a6-9668-59bc8fd04128
   - id: dineug.vuerd-vscode
