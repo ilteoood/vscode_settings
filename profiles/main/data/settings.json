@@ -130,7 +130,5 @@
   "easy-codesnap.realLineNumbers": false,
   "easy-codesnap.transparentBackground": false,
   "easy-codesnap.target": "container",
-  "easy-codesnap.shutterAction": "copy",
-  "nxConsole.showNodeVersionOnStartup": false,
-  "diffEditor.ignoreTrimWhitespace": false
+  "easy-codesnap.shutterAction": "copy"
 }
