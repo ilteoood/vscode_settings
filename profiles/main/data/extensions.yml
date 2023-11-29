@@ -150,6 +150,8 @@ enabled:
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: SonarSource.sonarlint-vscode
+    uuid: a7fa941e-bcda-486f-8141-8483a6286177
   - id: stylelint.vscode-stylelint
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: svelte.svelte-vscode
