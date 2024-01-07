@@ -8,7 +8,8 @@
     "editor.formatOnSave",
     "source.organizeImports",
     "source.sortImports",
-    "source.fixAll"
+    "source.fixAll",
+    "quickfix.biome"
   ],
   "editor.formatOnPaste": true,
   "files.enableTrash": false,
@@ -25,7 +26,7 @@
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggestSelection": "first",
     "editor.tabCompletion": "onlySnippets",
-    "editor.wordBasedSuggestions": false
+    "editor.wordBasedSuggestions": "off"
   },
   "pasteImage.insertPattern": "",
   "redhat.telemetry.enabled": false,
