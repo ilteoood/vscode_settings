@@ -30,8 +30,6 @@ enabled:
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
   - id: Codium.codium
     uuid: 9236e634-e663-41bc-b320-03ab778e7110
-  - id: cweijan.dbclient-jdbc
-    uuid: 1fe0d785-8db6-44ef-8113-cb0d98a88473
   - id: cweijan.vscode-database-client2
     uuid: 6ba92c55-a4a0-43f8-8aeb-cc3a03558814
   - id: Dart-Code.dart-code
@@ -60,8 +58,6 @@ enabled:
     uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
-  - id: GitHub.vscode-pull-request-github
-    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: Gruntfuggly.todo-tree
