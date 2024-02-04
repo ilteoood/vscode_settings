@@ -54,6 +54,8 @@ enabled:
     uuid: 8b5e7d83-3b28-4db4-b82f-6ed0b3f4ed91
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: GitHub.codespaces
+    uuid: 4023d3e5-c840-4cdd-8b54-51c77548aa3f
   - id: GitHub.remotehub
     uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: github.vscode-github-actions
