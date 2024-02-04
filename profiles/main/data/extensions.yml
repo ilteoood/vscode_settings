@@ -84,6 +84,8 @@ enabled:
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-playwright.playwright
     uuid: f53b1d43-eef4-4909-99ca-56b5fa3e108c
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.isort
     uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
   - id: ms-python.python
@@ -138,8 +140,6 @@ enabled:
     uuid: 0b8f8d63-11a2-4194-969c-ca7488b3413a
   - id: Prisma.prisma
     uuid: 33ce9d6b-41cf-4972-a62b-386f7201981d
-  - id: redhat.fabric8-analytics
-    uuid: efcb43ca-77e6-43e4-8ddc-ada617cb34bd
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
   - id: redhat.vscode-xml
@@ -150,8 +150,6 @@ enabled:
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
-  - id: SonarSource.sonarlint-vscode
-    uuid: a7fa941e-bcda-486f-8141-8483a6286177
   - id: stylelint.vscode-stylelint
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: svelte.svelte-vscode

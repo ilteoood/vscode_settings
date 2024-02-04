@@ -112,7 +112,8 @@
     "*": true,
     "dockercompose": true,
     "plaintext": true,
-    "markdown": true
+    "markdown": true,
+    "properties": true
   },
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
