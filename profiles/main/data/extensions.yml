@@ -18,6 +18,8 @@ enabled:
     uuid: e21a6113-833a-4583-b519-869fd1c1c384
   - id: bcanzanella.openmatchingfiles
     uuid: 3a6cf3c7-da91-4e13-b249-1722f059e580
+  - id: bierner.markdown-mermaid
+    uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
   - id: biomejs.biome
     uuid: 2c992d35-3965-4369-856e-fdfbb0af2ce2
   - id: bradlc.vscode-tailwindcss
@@ -82,6 +84,8 @@ enabled:
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: milan-kovacic.vitest-lab
+    uuid: b2525d18-c068-41d0-9105-0044f8c90418
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-playwright.playwright
@@ -196,7 +200,5 @@ enabled:
     uuid: beb993a6-6574-4cb8-9fa7-365fc6bb7fd7
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
-  - id: ZixuanChen.vitest-explorer
-    uuid: bc1d9975-fcc6-4594-a6ec-252a3fba1eae
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
