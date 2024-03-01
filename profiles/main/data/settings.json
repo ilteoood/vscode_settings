@@ -15,7 +15,7 @@
   "files.enableTrash": false,
   "git.enableSmartCommit": true,
   "git.autofetch": "all",
-  "jest.autoRun": "off",
+  "jest.runMode": "on-demand",
   "svg.preview.mode": "svg",
   "[dart]": {
     "editor.formatOnType": true,
@@ -133,5 +133,5 @@
   "easy-codesnap.transparentBackground": false,
   "easy-codesnap.target": "container",
   "easy-codesnap.shutterAction": "copy",
-  "nxConsole.showNodeVersionOnStartup": false
+  "dart.flutterHotReloadOnSave": "all"
 }
