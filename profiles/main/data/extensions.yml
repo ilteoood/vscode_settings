@@ -130,8 +130,6 @@ enabled:
     uuid: 0bfc03aa-70fb-4740-82a7-ca1043260d88
   - id: nrwl.angular-console
     uuid: d10af6bf-270f-4cf0-b94b-1bea4bda1e2e
-  - id: octref.vetur
-    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
   - id: Orta.vscode-jest
     uuid: 7997a8ae-1fae-4022-b834-12f6318aeffd
   - id: p42ai.refactor
@@ -190,8 +188,6 @@ enabled:
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: Vue.volar
     uuid: a5223b43-8621-4351-a14e-3d560f85f277
-  - id: Vue.vscode-typescript-vue-plugin
-    uuid: 78d16c76-388b-44e4-8470-6790d6c3d2d1
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
   - id: yatki.vscode-surround
