@@ -133,5 +133,9 @@
   "easy-codesnap.transparentBackground": false,
   "easy-codesnap.target": "container",
   "easy-codesnap.shutterAction": "copy",
-  "dart.flutterHotReloadOnSave": "all"
+  "dart.flutterHotReloadOnSave": "all",
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true
+  }
 }
