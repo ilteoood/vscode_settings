@@ -168,6 +168,8 @@ enabled:
     uuid: af8cfc85-cb72-45d0-bae2-9a98cd0c69f3
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: VisualStudioExptTeam.intellicode-api-usage-examples
     uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
   - id: VisualStudioExptTeam.vscodeintellicode
@@ -186,8 +188,6 @@ enabled:
     uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
-  - id: Vue.volar
-    uuid: a5223b43-8621-4351-a14e-3d560f85f277
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
   - id: yatki.vscode-surround
