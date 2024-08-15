@@ -134,7 +134,8 @@
   "easy-codesnap.shutterAction": "copy",
   "dart.flutterHotReloadOnSave": "all",
   "[rust]": {
-    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true
   },
   "window.zoomLevel": -1
 }

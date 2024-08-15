@@ -176,6 +176,8 @@ enabled:
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vitest.explorer
     uuid: ab3534a7-eaae-4f75-9735-62bfd758b220
+  - id: vscjava.vscode-gradle
+    uuid: a226f06e-9b5e-493b-b92a-553d3572f969
   - id: vscjava.vscode-java-debug
     uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
   - id: vscjava.vscode-java-dependency
@@ -188,6 +190,8 @@ enabled:
     uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
   - id: yatki.vscode-surround
