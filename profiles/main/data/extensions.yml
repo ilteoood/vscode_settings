@@ -56,6 +56,8 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: Everspace.rightclick-git
     uuid: 8b5e7d83-3b28-4db4-b82f-6ed0b3f4ed91
+  - id: expo.vscode-expo-tools
+    uuid: b2c4b5bf-9bda-4c81-96b6-d2f28401c4fb
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: GitHub.codespaces
