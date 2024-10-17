@@ -34,6 +34,8 @@ enabled:
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
   - id: Codium.codium
     uuid: 9236e634-e663-41bc-b320-03ab778e7110
+  - id: connor4312.nodejs-testing
+    uuid: bb3e4af0-be4a-4a5e-9afb-04c7a7f234c0
   - id: cweijan.vscode-database-client2
     uuid: 6ba92c55-a4a0-43f8-8aeb-cc3a03558814
   - id: Dart-Code.dart-code
@@ -156,6 +158,8 @@ enabled:
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: sleistner.vscode-fileutils
     uuid: d637104e-1fd7-4063-98fc-8afe46012c9b
+  - id: StackBlitz.tutorialkit
+    uuid: a5e51667-351d-465f-b011-96488cf91aed
   - id: stylelint.vscode-stylelint
     uuid: ec35b5a3-9802-4c68-b5ff-e85f19ec0977
   - id: svelte.svelte-vscode
