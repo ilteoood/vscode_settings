@@ -114,7 +114,8 @@
     "plaintext": true,
     "markdown": true,
     "properties": true,
-    "prisma": true
+    "prisma": true,
+    "java-properties": true
   },
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
