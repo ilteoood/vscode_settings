@@ -15,8 +15,8 @@
   "files.enableTrash": false,
   "git.enableSmartCommit": true,
   "git.autofetch": "all",
-  "jest.runMode": "on-demand",
   "svg.preview.mode": "svg",
+  "jest.runMode": "on-demand",
   "[dart]": {
     "editor.formatOnType": true,
     "editor.rulers": [
@@ -139,5 +139,8 @@
     "editor.defaultFormatter": "rust-lang.rust-analyzer",
     "editor.formatOnSave": true
   },
-  "window.zoomLevel": -1
+  "window.zoomLevel": -1,
+  "workbench.editorAssociations": {
+    "*.svg": "default"
+  }
 }
