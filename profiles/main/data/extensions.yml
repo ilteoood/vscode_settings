@@ -36,6 +36,8 @@ enabled:
     uuid: 9236e634-e663-41bc-b320-03ab778e7110
   - id: connor4312.nodejs-testing
     uuid: bb3e4af0-be4a-4a5e-9afb-04c7a7f234c0
+  - id: cweijan.dbclient-jdbc
+    uuid: 1fe0d785-8db6-44ef-8113-cb0d98a88473
   - id: cweijan.vscode-database-client2
     uuid: 6ba92c55-a4a0-43f8-8aeb-cc3a03558814
   - id: Dart-Code.dart-code
@@ -48,6 +50,8 @@ enabled:
     uuid: b08e77c9-221d-41a6-9668-59bc8fd04128
   - id: dineug.vuerd-vscode
     uuid: 8dbb7b71-9fc1-4b51-a9dd-460bf407d574
+  - id: docker.docker
+    uuid: aa98a064-0f79-4961-a4b7-78df16d547ee
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: ecmel.vscode-html-css
