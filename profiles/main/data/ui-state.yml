@@ -21,11 +21,11 @@ alefragnani.project-manager: '{"project-manager.version":"12.8.0","recent":"[\"$
   github-action-merge-dependabot\",\"$(git-branch)
   fastify-http-proxy\",\"$(git-branch) point-of-view\",\"$(git-branch)
   fastify-reply-from\",\"$(git-branch) NearformMobileCommunity\",\"$(git-branch)
-  fastify-nextjs\",\"$(git-branch) jarvis\",\"$(git-branch)
-  hse-health-app-shared\",\"$(git-branch) rayquaza-be\",\"$(git-branch)
-  cfr-backend\",\"$(git-branch) cfr-app\",\"$(git-branch)
+  fastify-nextjs\",\"$(git-branch) hse-health-app-shared\",\"$(git-branch)
+  rayquaza-be\",\"$(git-branch) cfr-backend\",\"$(git-branch)
   cfr-terraform-aws\",\"$(git-branch) hse-health-app\",\"$(git-branch)
-  hse-health-app-shared-workflows\"]"}'
+  hse-health-app-shared-workflows\",\"$(git-branch) jarvis\",\"$(git-branch)
+  cfr-app\"]"}'
 Codeium.codeium: '{"codeium.installationID":"4EwFb2ZnH9sae7sVYtufuvfYc5i9ggUk","codeium.hasInstalledKey":true,"codeium.hasShownFirstTimeAuthModalKey":true,"codeium.lastChangelogShownKey":"changelog_1.10.md","codeium.shown_codeiumCommand_v3":2,"codeium.usage_codeiumCommand_v3":185,"codeium.hasAuthenicatedKey":true}'
 Codium.codium: '{"installation_id":"9a1e4a1b-6af1-4050-8fb3-c3b21311ec8d","installation_fingerprint":"435ee60711da3ac2ada9457b318de37c128d5801b84f5bb21015182a739bd601-Codium.codium-%%EXTENSION_DATA_PATH%%/codium.codium-0.9.10-/Applications/Visual
   Studio
@@ -294,12 +294,12 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"when\":\"latex-workshop:enabled\"},{\"when\":\"latex-workshop:enabled\"},{\
   \"when\":\"latex-workshop:enabled\"}]},{\"id\":\"workbench.view.extension.ope\
   napi-explorer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/42\
-  crunch.vscode-openapi-4.33.1/resources/icons/icon_api.svg\",\"scheme\":\"file\
+  crunch.vscode-openapi-4.33.2/resources/icons/icon_api.svg\",\"scheme\":\"file\
   \"},\"name\":\"OpenAPI\",\"isBuiltin\":false,\"views\":[{\"when\":\"openapiTh\
   reeEnabled || openapiTwoEnabled\"},{\"when\":\"!openapiThreeEnabled &&
   !openapiTwoEnabled\"}]},{\"id\":\"workbench.view.extension.42crunch-platform\
   \",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/42crunch.vscode\
-  -openapi-4.33.1/resources/icon_42crunch_platform.svg\",\"scheme\":\"file\"},\
+  -openapi-4.33.2/resources/icon_42crunch_platform.svg\",\"scheme\":\"file\"},\
   \"name\":\"42Crunch\",\"isBuiltin\":false,\"views\":[{\"when\":\"openapi.plat\
   form.credentials ==
   'present'\"}]},{\"id\":\"workbench.view.extension.thunder-client\",\"isBuiltin\
@@ -384,8 +384,8 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chatEditing",
   !chatSetupHidden"}]}]'
 workbench.auxiliaryBar.size: "256"
 workbench.chat.hideMovedChatWelcomeView: "true"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["gitignore",true],["diff",true],["code-text-binary",true],["json",true],["typescript",true],["javascript",true],["typescriptreact",true],["plaintext",true],["properties",true],["yaml",true],["github-actions-workflow",true]]'
-workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"liveshare.session.explorer","isHidden":false},{"id":"dartDependencyTree","isHidden":false},{"id":"treeLocalHistoryExplorer","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"checkpointsTreeViewExplorer","isHidden":false},{"id":"checkPointExplorer","isHidden":false},{"id":"gitTreeCompare","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"vueComponentPreview","isHidden":false},{"id":"dartFlutterOutline","isHidden":false},{"id":"latex-workshop-commands","isHidden":false},{"id":"makefile.outline","isHidden":false},{"id":"p42.suggestion","isHidden":false},{"id":"latex-workshop-structure","isHidden":false},{"id":"p42.license","isHidden":false},{"id":"latex-workshop-snippet-view","isHidden":false},{"id":"bazelWorkspace","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false},{"id":"SonarLint.IssueLocations","isHidden":false},{"id":"github:login","isHidden":false},{"id":"pr:github","isHidden":false},{"id":"issues:github","isHidden":false},{"id":"SonarLint.AllRules","isHidden":false},{"id":"SonarLint.ConnectedMode","isHidden":false},{"id":"SonarLint.SecurityHotspots","isHidden":false},{"id":"SonarLint.HelpAndFeedback","isHidden":false},{"id":"brunoPanel","isHidden":false},{"id":"tutorialkit-lessons-tree","isHidden":false},{"id":"go.package.outline","isHidden":false}]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["markdown",true],["gitignore",true],["diff",true],["code-text-binary",true],["json",true],["typescript",true],["javascript",true],["typescriptreact",true],["properties",true],["yaml",true],["plaintext",true],["github-actions-workflow",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":false},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"liveshare.session.explorer","isHidden":false},{"id":"dartDependencyTree","isHidden":false},{"id":"treeLocalHistoryExplorer","isHidden":false},{"id":"commitViewProvider","isHidden":false},{"id":"compareCommitViewProvider","isHidden":false},{"id":"checkpointsTreeViewExplorer","isHidden":false},{"id":"checkPointExplorer","isHidden":false},{"id":"gitTreeCompare","isHidden":false},{"id":"go.explorer","isHidden":false},{"id":"javaProjectExplorer","isHidden":false},{"id":"mavenProjects","isHidden":false},{"id":"vueComponentPreview","isHidden":false},{"id":"dartFlutterOutline","isHidden":false},{"id":"latex-workshop-commands","isHidden":false},{"id":"makefile.outline","isHidden":false},{"id":"p42.suggestion","isHidden":false},{"id":"latex-workshop-structure","isHidden":false},{"id":"p42.license","isHidden":false},{"id":"latex-workshop-snippet-view","isHidden":false},{"id":"bazelWorkspace","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.home","isHidden":false},{"id":"rustDependencies","isHidden":false},{"id":"thunder-client-sidebar","isHidden":false},{"id":"SonarLint.IssueLocations","isHidden":false},{"id":"github:login","isHidden":false},{"id":"pr:github","isHidden":false},{"id":"issues:github","isHidden":false},{"id":"SonarLint.AllRules","isHidden":false},{"id":"SonarLint.ConnectedMode","isHidden":false},{"id":"SonarLint.SecurityHotspots","isHidden":false},{"id":"SonarLint.HelpAndFeedback","isHidden":false},{"id":"brunoPanel","isHidden":false},{"id":"tutorialkit-lessons-tree","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"claude-dev.SidebarProvider","isHidden":false}]'
 workbench.grid.size: '{"height":768,"width":1024}'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
@@ -414,6 +414,7 @@ workbench.statusbar.hidden: '["status.workspaceTrust.1635065242143","status.work
 workbench.telemetryOptOutShown: "true"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"vscode-js-profile-flame.realtime","isHidden":false},{"id":"lldb.loadedModules","isHidden":false},{"id":"lldb.excludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false}]'
 workbench.view.extension.bookmarks.state.hidden: '[{"id":"bookmarksExplorer","isHidden":false},{"id":"bookmarksHelpAndFeedback","isHidden":false}]'
+workbench.view.extension.claude-dev-ActivityBar.state.hidden: '[{"id":"claude-dev.SidebarProvider","isHidden":false}]'
 workbench.view.extension.codeium.state.hidden: '[{"id":"codeium.searchPanelView","isHidden":false},{"id":"codeium.chatPanelView","isHidden":false}]'
 workbench.view.extension.codium-sidebar-view-container.state.hidden:
   '[{"id":"codium-tree-view","isHidden":false},{"id":"apply-suggestions-view","isHidden":false},{"id":"prepr-view","isHidden":false},{"id":"chat-view","isHidden":false}]'
