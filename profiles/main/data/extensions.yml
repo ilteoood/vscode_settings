@@ -32,8 +32,6 @@ enabled:
     uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
-  - id: Codium.codium
-    uuid: 9236e634-e663-41bc-b320-03ab778e7110
   - id: connor4312.nodejs-testing
     uuid: bb3e4af0-be4a-4a5e-9afb-04c7a7f234c0
   - id: cweijan.dbclient-jdbc
