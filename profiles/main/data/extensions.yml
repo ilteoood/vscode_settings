@@ -28,8 +28,6 @@ enabled:
     uuid: d9d9d9f5-a013-42bb-bc1d-a22090e5d31c
   - id: chrmarti.regex
     uuid: 7ed7bccd-f358-4c6f-88c0-1296185abaa1
-  - id: Codeium.codeium
-    uuid: acab4f40-b6db-42ec-bcd1-01802cbdd988
   - id: codezombiech.gitignore
     uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
   - id: connor4312.nodejs-testing
@@ -66,6 +64,10 @@ enabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: GitHub.codespaces
     uuid: 4023d3e5-c840-4cdd-8b54-51c77548aa3f
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
+  - id: GitHub.copilot-chat
+    uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: GitHub.remotehub
     uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: github.vscode-github-actions
