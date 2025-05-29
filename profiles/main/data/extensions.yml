@@ -96,6 +96,8 @@ enabled:
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-playwright.playwright
@@ -172,6 +174,8 @@ enabled:
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
+  - id: tauri-apps.tauri-vscode
+    uuid: 53763e89-ec31-4d0c-b220-f714761180e5
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
   - id: ultram4rine.vscode-choosealicense
