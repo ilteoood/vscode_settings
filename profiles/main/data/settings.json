@@ -142,5 +142,6 @@
   "window.zoomLevel": -1,
   "workbench.editorAssociations": {
     "*.svg": "default"
-  }
+  },
+  "diffEditor.ignoreTrimWhitespace": false
 }
