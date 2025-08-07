@@ -144,7 +144,7 @@
     "*.svg": "default"
   },
   "diffEditor.ignoreTrimWhitespace": false,
-  "docker.extension.enableComposeLanguageServer": false,
+  "docker.extension.enableComposeLanguageServer": true,
   "chat.instructionsFilesLocations": {
     ".github/instructions": true,
     "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-http-request-post-response.instructions.md": true,
