@@ -110,6 +110,8 @@ enabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: ms-vscode-remote.remote-containers
     uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
   - id: ms-vscode-remote.remote-ssh
@@ -136,6 +138,8 @@ enabled:
     uuid: 105c0b3c-07a9-4156-a4fc-4141040eb07e
   - id: ms-vscode.vscode-js-profile-flame
     uuid: 76169c6c-5d43-4560-93d8-95e15125880d
+  - id: ms-vscode.vscode-speech
+    uuid: e6610e16-9699-4e1d-a5d7-9bb1643db131
   - id: ms-vsliveshare.vsliveshare
     uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
   - id: nicoespeon.abracadabra
@@ -174,8 +178,6 @@ enabled:
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
-  - id: tauri-apps.tauri-vscode
-    uuid: 53763e89-ec31-4d0c-b220-f714761180e5
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
   - id: ultram4rine.vscode-choosealicense
@@ -206,8 +208,6 @@ enabled:
     uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
-  - id: Vue.volar
-    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
   - id: WakaTime.vscode-wakatime
     uuid: f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3
   - id: yatki.vscode-surround

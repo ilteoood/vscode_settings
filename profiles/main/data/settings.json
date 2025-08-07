@@ -143,5 +143,17 @@
   "workbench.editorAssociations": {
     "*.svg": "default"
   },
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "docker.extension.enableComposeLanguageServer": false,
+  "chat.instructionsFilesLocations": {
+    ".github/instructions": true,
+    "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-http-request-post-response.instructions.md": true,
+    "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-http-request-pre-request.instructions.md": true,
+    "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-collections-post-response.instructions.md": true,
+    "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-collections-pre-request.instructions.md": true,
+    "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-folder-post-response.instructions.md": true,
+    "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-folder-pre-request.instructions.md": true
+  },
+  "biome.suggestInstallingGlobally": false,
+  "github.copilot.nextEditSuggestions.enabled": true
 }
