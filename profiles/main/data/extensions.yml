@@ -1,4 +1,6 @@
-disabled: []
+disabled:
+  - id: vscjava.migrate-java-to-azure
+    uuid: 67eb125c-be8b-4984-82d2-d7adea5d3677
 enabled:
   - id: 42Crunch.vscode-openapi
     uuid: 75dba0f9-d5c5-4902-99c4-cd3d60ec7147
@@ -194,8 +196,6 @@ enabled:
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vitest.explorer
     uuid: ab3534a7-eaae-4f75-9735-62bfd758b220
-  - id: vscjava.migrate-java-to-azure
-    uuid: 67eb125c-be8b-4984-82d2-d7adea5d3677
   - id: vscjava.vscode-gradle
     uuid: a226f06e-9b5e-493b-b92a-553d3572f969
   - id: vscjava.vscode-java-debug
