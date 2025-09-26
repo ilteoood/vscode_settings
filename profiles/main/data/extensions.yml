@@ -1,6 +1,4 @@
-disabled:
-  - id: vscjava.migrate-java-to-azure
-    uuid: 67eb125c-be8b-4984-82d2-d7adea5d3677
+disabled: []
 enabled:
   - id: 42Crunch.vscode-openapi
     uuid: 75dba0f9-d5c5-4902-99c4-cd3d60ec7147
@@ -206,8 +204,6 @@ enabled:
     uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
   - id: vscjava.vscode-java-test
     uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
-  - id: vscjava.vscode-java-upgrade
-    uuid: 3b948aef-5c6f-4aa5-aef0-ae1c777b02bb
   - id: vscjava.vscode-maven
     uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscode-icons-team.vscode-icons
