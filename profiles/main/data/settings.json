@@ -101,21 +101,11 @@
   "[scss]": {
     "editor.defaultFormatter": "vscode.css-language-features"
   },
-  "codeium.enableSearch": true,
   "[python]": {
     "editor.formatOnType": true
   },
   "[svg]": {
     "editor.defaultFormatter": "jock.svg"
-  },
-  "codeium.enableConfig": {
-    "*": true,
-    "dockercompose": true,
-    "plaintext": true,
-    "markdown": true,
-    "properties": true,
-    "prisma": true,
-    "java-properties": true
   },
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
@@ -155,5 +145,20 @@
     "/var/folders/hj/nfxwxj9x213dsh5wxfxtyb040000gn/T/postman-folder-pre-request.instructions.md": true
   },
   "biome.suggestInstallingGlobally": false,
-  "github.copilot.nextEditSuggestions.enabled": true
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "python.analysis.typeCheckingMode": "strict",
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  }
 }

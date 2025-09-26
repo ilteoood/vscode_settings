@@ -194,6 +194,8 @@ enabled:
     uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vitest.explorer
     uuid: ab3534a7-eaae-4f75-9735-62bfd758b220
+  - id: vscjava.migrate-java-to-azure
+    uuid: 67eb125c-be8b-4984-82d2-d7adea5d3677
   - id: vscjava.vscode-gradle
     uuid: a226f06e-9b5e-493b-b92a-553d3572f969
   - id: vscjava.vscode-java-debug
@@ -204,6 +206,8 @@ enabled:
     uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
   - id: vscjava.vscode-java-test
     uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+  - id: vscjava.vscode-java-upgrade
+    uuid: 3b948aef-5c6f-4aa5-aef0-ae1c777b02bb
   - id: vscjava.vscode-maven
     uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
   - id: vscode-icons-team.vscode-icons
