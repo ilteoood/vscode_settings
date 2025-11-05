@@ -126,6 +126,8 @@ enabled:
     uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
   - id: ms-vscode.azure-repos
     uuid: 25cfa506-1433-4595-a73f-61666807126d
+  - id: ms-vscode.hexeditor
+    uuid: cc7d2112-5178-4472-8e0e-25dced95e7f0
   - id: ms-vscode.live-server
     uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
   - id: ms-vscode.makefile-tools
