@@ -164,7 +164,5 @@
   "gitlens.ai.model": "vscode",
   "gitlens.ai.vscode.model": "copilot:gpt-4.1",
   "chat.mcp.gallery.enabled": true,
-  "datadog.connection.oauth.setup.domain": "app.datadoghq.eu",
-  "datadog.staticAnalysis.notification.suppressOnboarding": true,
   "chat.agentSessionsViewLocation": "single-view"
 }
