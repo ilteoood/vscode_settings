@@ -42,8 +42,6 @@ enabled:
     uuid: f6c3ec04-6057-4d9c-b997-69cba07a6158
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
-  - id: dendron.dendron-paste-image
-    uuid: b08e77c9-221d-41a6-9668-59bc8fd04128
   - id: dineug.vuerd-vscode
     uuid: 8dbb7b71-9fc1-4b51-a9dd-460bf407d574
   - id: docker.docker
@@ -72,6 +70,8 @@ enabled:
     uuid: fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd
   - id: github.vscode-github-actions
     uuid: 04f49bfc-8330-4eee-8237-ea938fb755ef
+  - id: GitHub.vscode-pull-request-github
+    uuid: 69ddd764-339a-4ecc-97c1-9c4ece58e36d
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: Gruntfuggly.todo-tree
@@ -180,6 +180,8 @@ enabled:
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
+  - id: telesoho.vscode-markdown-paste-image
+    uuid: 387abb54-fd2b-402d-a101-7376ccb784d3
   - id: timonwong.shellcheck
     uuid: f95d8fff-f70a-4ae5-bb06-5c47ddbc8fc6
   - id: ultram4rine.vscode-choosealicense
