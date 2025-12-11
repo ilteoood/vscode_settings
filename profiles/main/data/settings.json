@@ -1,7 +1,6 @@
 {
   "files.autoSave": "onFocusChange",
   "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "Default Dark+",
   "editor.codeActionsOnSave": [
@@ -28,7 +27,6 @@
     "editor.tabCompletion": "onlySnippets",
     "editor.wordBasedSuggestions": "off"
   },
-  "pasteImage.insertPattern": "",
   "redhat.telemetry.enabled": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "window.openFoldersInNewWindow": "on",
@@ -164,5 +162,8 @@
   "gitlens.ai.model": "vscode",
   "gitlens.ai.vscode.model": "copilot:gpt-4.1",
   "chat.mcp.gallery.enabled": true,
-  "chat.agentSessionsViewLocation": "single-view"
+  "chat.agentSessionsViewLocation": "single-view",
+  "playwright.reuseBrowser": true,
+  "makefile.configureOnOpen": true,
+  "chat.viewSessions.enabled": false
 }

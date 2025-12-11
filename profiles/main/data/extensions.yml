@@ -1,4 +1,6 @@
-disabled: []
+disabled:
+  - id: GitHub.copilot
+    uuid: 00000000-0000-0000-0000-000000000000
 enabled:
   - id: 42Crunch.vscode-openapi
     uuid: 75dba0f9-d5c5-4902-99c4-cd3d60ec7147
@@ -62,8 +64,6 @@ enabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: GitHub.codespaces
     uuid: 4023d3e5-c840-4cdd-8b54-51c77548aa3f
-  - id: GitHub.copilot
-    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: GitHub.copilot-chat
     uuid: 7ec7d6e6-b89e-4cc5-a59b-d6c4d238246f
   - id: GitHub.remotehub
@@ -190,10 +190,6 @@ enabled:
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
   - id: vadimcn.vscode-lldb
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
-  - id: VisualStudioExptTeam.intellicode-api-usage-examples
-    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
-  - id: VisualStudioExptTeam.vscodeintellicode
-    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vitest.explorer
     uuid: ab3534a7-eaae-4f75-9735-62bfd758b220
   - id: vscjava.vscode-gradle
